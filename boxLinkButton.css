@@ -7,8 +7,9 @@
   font-family: "Montserrat", sans-serif;
   font-size: 1.6rem;
   font-weight: 500;
-  line-height: 1.6rem;
   height: 100%;
+  line-height: 1.6rem;
+  margin-bottom: 1rem;
   width: 100%;
 }
 
@@ -28,4 +29,9 @@
   border: 1px solid #088099;
   border-radius: 0;
   color: #FFFFFF;
+}
+
+
+span.boxLinkButton {
+  margin-bottom: 1rem;
 }
