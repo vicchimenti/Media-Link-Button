@@ -1,0 +1,13 @@
+.btn.btn-alpha.btn-lg {
+  align-content: center;
+  background-color: #FFFFFF;
+  border: 1px solid #088099;
+  border-radius: 0;
+  color: #aa0000;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.6rem;
+  height: 100%;
+  width: 100%;
+}
